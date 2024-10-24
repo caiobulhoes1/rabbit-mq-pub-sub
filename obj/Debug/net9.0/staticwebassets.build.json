@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6AohFER5Aw8h8EoYx5mitsXjXb0MrFlbPbMdIjAbZ1M=",
+  "Source": "rabbit-mq-pub-sub",
+  "BasePath": "_content/rabbit-mq-pub-sub",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

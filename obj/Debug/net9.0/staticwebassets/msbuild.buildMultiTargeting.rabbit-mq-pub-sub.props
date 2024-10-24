@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\rabbit-mq-pub-sub.props" />
+</Project>
